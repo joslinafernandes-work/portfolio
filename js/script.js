@@ -985,7 +985,7 @@ function renderArticles() {
       <img class="article-img" src="${a.img}" alt="${a.title}">
       <div>
         <h3>${a.title}</h3>
-        <p class="sampledatetime">${a.date} • ${a.readTime}</p>
+        <p style="font-size:.5rem;" class="sampledatetime">${a.date} • ${a.readTime}</p>
         <p class="sampledescription"> ${a.aboutcontent}</p>
       </div>
       <div style="clear:both;"></div>
