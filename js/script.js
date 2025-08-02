@@ -49,6 +49,20 @@ const articles = [
           Why Quality Local Businesses Go Unrecognized on AI Searches
         </center>
       </h1><br>
+      <fieldset class="fieldsetbox">
+        <legend class="legendtitle">
+          <center>
+            About This Sample
+          </center>
+        </legend>
+        <p class="legendtext">
+          This sample paper is not an exhaustive study, but rather a demonstration 
+          of my approach to research-driven writing. I wrote this paper as a way to 
+          explore an issue I’ve observed firsthand. It combines localized examples, clear structure, and 
+          concise analysis to illustrate how I translate complex ideas into accessible, 
+          well-organized content.
+        </p>
+      </fieldset><br>
       <h2 class="paperheader1">
         <center>
           Abstract
