@@ -741,3 +741,7 @@ main {
     font-size: .65rem;
     text-align: justify;
 }
+.footer-text {
+    font-size: .9rem;
+    color: var(--text-header);
+}
