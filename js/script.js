@@ -626,7 +626,7 @@ const articles = [
         wheels on the carpet, and the low hum of multiple languages mingling with 
         the occasional announcement over the PA system.<br><br>
         Passengers often checking their phones and watches, 
-        eyes flicking toward the thinning boarding queue. A few of them darted toward the 
+        eyes flicking toward the thinning boarding queue. A few of them darting toward the 
         restrooms for last-minute bathroom breaks before the flight ahead. Others 
         stood silently, shoulders slouched, swaying slightly under the weight of their backpacks.<br><br>
         The air carried a mix of everything - duty-free body sprays, the musty 
